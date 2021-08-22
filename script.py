@@ -3,11 +3,8 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
+Ada ni e group join chyada @chat_with_gopuzzedit .E group join chytha pine ni Vara group join chyanda athe editing materialum E group kidm eshta patta kuda kudiko kuda nammal unde Any other help contact owner: @GOPUZZ_EDIT02
+💞💞💞💞💞💞💞💞💞💞💞💞💞
 
 For more click <i>help</i></b>"""
 
